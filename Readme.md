@@ -10,6 +10,10 @@ This Repository contains the papers that i recently read(most of them are in 202
 4. Su, J., Maji, S., & Hariharan, B. (2020). When Does Self-supervision Improve Few-shot Learning? ECCV.
 5. Jiang, H., Liu, S., Wang, J., & Wang, X. (2021). Hand-Object Contact Consistency Reasoning for Human Grasps Generation. ArXiv, abs/2104.03304.
 6. Xu, J., & Wang, X. (2021). Rethinking Self-supervised Correspondence Learning: A Video Frame-level Similarity Perspective. ArXiv, abs/2103.17263.
+7. Chen, Z. et al. “Shot in the Dark: Few-Shot Learning with No Base-Class Labels.” ArXiv abs/2010.02430 (2020): n. pag.
+8. Zhang, Michael et al. “Personalized Federated Learning with First Order Model Optimization.” ArXiv abs/2012.08565 (2020): n. pag.
+9. Chen, Wuyang et al. “Contrastive Syn-to-Real Generalization.” ArXiv abs/2104.02290 (2021): n. pag.
+10. Liao, Yuan-Hong et al. “Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets.” ArXiv abs/2104.12690 (2021): n. pag.
 
 
 ## NLP
@@ -17,6 +21,12 @@ This Repository contains the papers that i recently read(most of them are in 202
 1. Vaswani, A., Shazeer, N.M., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.N., Kaiser, L., & Polosukhin, I. (2017). Attention is All you Need. ArXiv, abs/1706.03762.
 2. Reddy, R.R., Yadav, V., Sultan, M.A., Franz, M., Castelli, V., Ji, H., & Sil, A. (2021). Towards Robust Neural Retrieval Models with Synthetic Pre-Training. ArXiv, abs/2104.07800.
 3. Hua, X., & Wang, L. (2020). PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation. EMNLP.
+4. Jin, Xisen et al. “Gradient Based Memory Editing for Task-Free Continual Learning.” ArXiv abs/2006.15294 (2020): n. pag.
+5. Deshpande, A. and Karthik Narasimhan. “Guiding Attention for Self-Supervised Learning with Transformers.” EMNLP (2020).
+6. Ye, Qinyuan et al. “CrossFit: A Few-shot Learning Challenge for Cross-task Generalization in NLP.” ArXiv abs/2104.08835 (2021): n. pag.
+7. Hu, Wenpeng et al. “Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation.” ICLR (2019).
+8. Tan, Bowen et al. “Progressive Generation of Long Text.” ArXiv abs/2006.15720 (2020): n. pag.
+9. Sanh, Victor et al. “Learning from others' mistakes: Avoiding dataset biases without modeling them.” ArXiv abs/2012.01300 (2020): n. pag.
 
 ## GAN
 
